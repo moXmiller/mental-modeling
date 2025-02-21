@@ -1,0 +1,1 @@
+this is the code to our arXiv paper "Beyond Pattern Recognition: Probing Mental Representations of LMs". The dataset can be obtained from huggingface under [moritzmiller/mental-modeling](https://huggingface.co/datasets/moritzmiller/mental-modeling)
